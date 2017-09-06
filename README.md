@@ -1,24 +1,22 @@
-# README
+# Commit History Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Commit History Demo is a Rails 5.1 application.
 
-Things you may want to cover:
+It will help illustrate/document a Git workflow pattern that values longer and
+more detailed commit messages, as well as a chronological commit history.
 
-* Ruby version
+# Resources
 
-* System dependencies
+Please refer to the following articles for more in depth and (more than likely)
+concise explanation as to why you might want to prescribe to this workflow
+pattern.
 
-* Configuration
+ - (Git Interactive Rebase)[https://robots.thoughtbot.com/git-interactive-rebase-squash-amend-rewriting-history]
+ - (5 Useful Tips For A Better Commit Message)[https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message]
+ - (Git Protocol by Thoughtbot)[https://github.com/thoughtbot/guides/tree/master/protocol/git]
 
-* Database creation
+# Additional
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you're so inclined, I would recommend going through the "Mastering Git" trail
+on (Upcase)[www.upcase.com]; for me, the course really helped demystify the
+technology.
